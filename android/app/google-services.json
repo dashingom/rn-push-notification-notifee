@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42737433956",
+    "project_id": "rn-push-notification-72ee5",
+    "storage_bucket": "rn-push-notification-72ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42737433956:android:b27ba5ea5bb7aa53cfce71",
+        "android_client_info": {
+          "package_name": "com.rntest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5cxM_gRwEFIXReGRYKLZekX6OnK8eA7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
